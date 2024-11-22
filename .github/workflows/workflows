@@ -1,1 +1,8 @@
+/ (root)
+├── .github/
+│   └── workflows/
+│       └── azure-static-web-apps.yml
+├── index.html
+├── assets
+
 
